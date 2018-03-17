@@ -1,13 +1,15 @@
 # awesome
-日常使用的工具库
+日常使用的工具库和工具网站
 
 <br>
 
 ## Contents
-
+- [Tool Website](#Tool-Website)
 - [NodeJS](#NodeJS)
 - [Front-End Development](#front-end-development)
 
+## Tool-Website
+- [devhints](https://devhints.io/) -  A modest collection of cheatsheets.
 
 ## NodeJS
 - [nvm](https://github.com/creationix/nvm#readme) -  Node Version Manager.
@@ -17,6 +19,9 @@
 
 
 ## front-end-development
+- [lodash](https://lodash.com/docs/4.17.5) -  A modern JavaScript utility library delivering modularity, performance & extras.
+
+
 
 <!--
 
