@@ -10,6 +10,7 @@
 
 
 ## NodeJS
+- [nvm](https://github.com/creationix/nvm#readme) -  Node Version Manager.
 - [chalk](https://github.com/chalk/chalk#readme) -  Terminal string styling done right.
 - [meow](https://github.com/sindresorhus/meow#readme) -  CLI app helper.
 - [clipboardy](https://github.com/sindresorhus/clipboardy#readme) -  Access the system clipboard (copy/paste).
