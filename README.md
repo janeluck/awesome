@@ -7,20 +7,27 @@
 - [Tool Website](#Tool-Website)
 - [NodeJS](#NodeJS)
 - [Front-End Development](#front-end-development)
+- [Unix](#Unix)
+
 
 ## Tool-Website
 - [devhints](https://devhints.io/) -  A modest collection of cheatsheets.
+
 
 ## NodeJS
 - [nvm](https://github.com/creationix/nvm#readme) -  Node Version Manager.
 - [chalk](https://github.com/chalk/chalk#readme) -  Terminal string styling done right.
 - [meow](https://github.com/sindresorhus/meow#readme) -  CLI app helper.
 - [clipboardy](https://github.com/sindresorhus/clipboardy#readme) -  Access the system clipboard (copy/paste).
+- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner.
 
 
 ## front-end-development
 - [lodash](https://lodash.com/docs/4.17.5) -  A modern JavaScript utility library delivering modularity, performance & extras.
 
+
+## Unix
+- [Bash Hackers](http://wiki.bash-hackers.org/) -  Documentation of any kind about GNU Bash..
 
 
 <!--
