@@ -10,6 +10,7 @@
 - [Front-End Development](#front-end-development)
 - [Unix](#Unix)
 - [Software management](#software-management)
+- [Python](#Python)
 
 
 ## Tool-Website
@@ -41,7 +42,11 @@
 - [Bash Hackers](http://wiki.bash-hackers.org/) -  Documentation of any kind about GNU Bash.
 
 ## software-management
-- [semver](https://semver.org/) - Semantic Versioning
+- [semver](https://semver.org/) -  Semantic Versioning
+
+## Python
+- [scrapy](https://docs.scrapy.org/en/latest/) -  A Fast and Powerful Scraping and Web Crawling Framework
+
 <!--
 
 ## NodeJS
