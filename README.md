@@ -9,17 +9,22 @@
 - [Npm](#Npm)
 - [Front-End Development](#front-end-development)
 - [Unix](#Unix)
+- [Software management](#software-management)
 
 
 ## Tool-Website
 - [devhints](https://devhints.io/) -  A modest collection of cheatsheets.
+- [RegExr](http://www.regexr.com/) -  RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
 
 ## Npm
 - [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner.
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager.
+- [avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node.
 - [chalk](https://github.com/chalk/chalk#readme) -  Terminal string styling done right.
 - [meow](https://github.com/sindresorhus/meow#readme) -  CLI app helper.
 - [clipboardy](https://github.com/sindresorhus/clipboardy#readme) -  Access the system clipboard (copy/paste).
+- [semver](https://github.com/npm/node-semver) -  The semantic versioner for npm.
 
 
 ## NodeJS
@@ -35,7 +40,8 @@
 ## Unix
 - [Bash Hackers](http://wiki.bash-hackers.org/) -  Documentation of any kind about GNU Bash.
 
-
+## software-management
+- [semver](https://semver.org/) - Semantic Versioning
 <!--
 
 ## NodeJS
