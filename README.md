@@ -19,6 +19,7 @@
 
 
 ## Npm
+- [npm docs](https://docs.npmjs.com/) - The place where all things npm are documented.
 - [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner.
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager.
 - [avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node.
