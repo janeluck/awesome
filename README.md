@@ -8,6 +8,8 @@
 - [NodeJS](#NodeJS)
 - [Npm](#Npm)
 - [Front-End Development](#front-end-development)
+- [React, Redux](#React-Redux)
+- [TypeScript](#TypeScript)
 - [Unix](#Unix)
 - [Software management](#software-management)
 - [Python](#Python)
@@ -33,10 +35,25 @@
 - [nvm](https://github.com/creationix/nvm#readme) -  Node Version Manager.
 - [Koa](http://koajs.com/) -  Next generation web framework for node.js.
 - [koa-router](https://github.com/alexmingoia/koa-router#readme) -  Router middleware for koa.
+- [nodemon](https://github.com/remy/nodemon#nodemon) -  Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 
 
 ## front-end-development
 - [lodash](https://lodash.com/docs/4.17.5) -  A modern JavaScript utility library delivering modularity, performance & extras.
+
+## React-Redux
+- [React](https://reactjs.org/) -  A JavaScript library for building user interfaces.
+- [React Cheat Sheet](https://reactcheatsheet.com/?utm_source=reactnl&utm_medium=email) -  React Cheat Sheet.
+- [react-router@4](https://reacttraining.com/react-router/) -  Declarative Routing for React.js.
+- [Redux](https://redux.js.org/) -  Redux is a predictable state container for JavaScript apps.
+- [redux-localstorage](https://github.com/elgerlambert/redux-localstorage) -  Store enhancer that syncs (a subset) of your Redux store state to localstorage.
+- [react-redux](https://github.com/reactjs/react-redux) -  Official React bindings for Redux.
+- [react-router-redux@5](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) -  Keep your state in sync with your router.
+
+
+## TypeScript
+- [TypeScript](http://www.typescriptlang.org/index.html) -  JavaScript that scales
+- [ImmutablJS](https://facebook.github.io/immutable-js/) -  Immutable collections for JavaScript
 
 
 ## Unix
