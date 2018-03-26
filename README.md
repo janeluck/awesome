@@ -9,6 +9,8 @@
 - [Npm](#Npm)
 - [Front-End Development](#front-end-development)
 - [React, Redux](#React-Redux)
+- [Webpack](#Webpack)
+- [Babel](#Babel)
 - [TypeScript](#TypeScript)
 - [Unix](#Unix)
 - [Software management](#software-management)
@@ -49,6 +51,14 @@
 - [redux-localstorage](https://github.com/elgerlambert/redux-localstorage) -  Store enhancer that syncs (a subset) of your Redux store state to localstorage.
 - [react-redux](https://github.com/reactjs/react-redux) -  Official React bindings for Redux.
 - [react-router-redux@5](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) -  Keep your state in sync with your router.
+
+
+## Webpack
+
+- [Webpack](https://webpack.js.org/) -  Webpack is a module bundler.
+- [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin#readme) -  This Webpack plugin enforces the entire path of all required modules match the exact case of the actual path on disk.
+## Babel
+- [Babel](https://babeljs.io/) -  Babel is a JavaScript compiler.
 
 
 ## TypeScript
