@@ -42,7 +42,7 @@
 
 ## front-end-development
 - [lodash](https://lodash.com/docs/4.17.5) -  A modern JavaScript utility library delivering modularity, performance & extras.
-
+- [core-js](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
 ## React-Redux
 - [React](https://reactjs.org/) -  A JavaScript library for building user interfaces.
 - [React Cheat Sheet](https://reactcheatsheet.com/?utm_source=reactnl&utm_medium=email) -  React Cheat Sheet.
