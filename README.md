@@ -54,11 +54,13 @@
 
 
 ## Webpack
-
 - [Webpack](https://webpack.js.org/) -  Webpack is a module bundler.
+- [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/) -   Effectively optimize site resources using webpack.
 - [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin#readme) -  This Webpack plugin enforces the entire path of all required modules match the exact case of the actual path on disk.
 ## Babel
 - [Babel](https://babeljs.io/) -  Babel is a JavaScript compiler.
+- [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) -  Custom module resolver plugin for Babel.
+
 
 
 ## TypeScript
