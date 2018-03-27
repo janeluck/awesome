@@ -60,6 +60,7 @@
 
 ## Webpack
 - [Webpack](https://webpack.js.org/) -  Webpack is a module bundler.
+- [深入浅出 Webpack](http://webpack.wuhaolin.cn/) -   Webpack的使用与常见优化方法, Webpack原理与架构.
 - [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/) -   Effectively optimize site resources using webpack.
 - [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin#readme) -  This Webpack plugin enforces the entire path of all required modules match the exact case of the actual path on disk.
 ## Babel
