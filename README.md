@@ -55,7 +55,10 @@
     - [core-js](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
 - component
     - [sweetalert](https://sweetalert.js.org/) -  SweetAlert makes popup messages easy and pretty.
-
+- client
+    - [cookies-js](https://github.com/ScottHamper/Cookies) -  JavaScript Client-Side Cookie Manipulation Library.
+- mobile
+    - [fastclick](https://github.com/ftlabs/fastclick) -  Polyfill to remove click delays on browsers with touch UIs
 
 ## React-Redux
 - [React](https://reactjs.org/) -  A JavaScript library for building user interfaces.
