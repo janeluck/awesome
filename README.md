@@ -21,11 +21,14 @@
 ## Tool-Website
 - [devhints](https://devhints.io/) -  A modest collection of cheatsheets.
 - [RegExr](http://www.regexr.com/) -  RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+- [TinyPng](https://tinypng.com/) -  Optimize your images with a perfect balance in quality and file size
 
 ## App-Tool
 - [Shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) -  A fast tunnel proxy that helps you bypass firewalls.
 - [Postman](https://www.getpostman.com/) -  Postman Makes API Development Simple.
 - [Atmo](http://getatmo.com/) -  Mock data for your prototypes and demos.
+- [Charles](https://www.charlesproxy.com/) -  Web debugging proxy application.
+- [iTerm2](https://www.iterm2.com/) -  iTerm2 is a terminal emulator for macOS that does amazing things.
 
 ## Npm
 - [npm docs](https://docs.npmjs.com/) - The place where all things npm are documented.
@@ -34,6 +37,7 @@
 - [avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node.
 - [chalk](https://github.com/chalk/chalk#readme) -  Terminal string styling done right.
 - [meow](https://github.com/sindresorhus/meow#readme) -  CLI app helper.
+- [minimist](https://github.com/substack/minimist) -  Parse argument options.
 - [clipboardy](https://github.com/sindresorhus/clipboardy#readme) -  Access the system clipboard (copy/paste).
 - [semver](https://github.com/npm/node-semver) -  The semantic versioner for npm.
 
