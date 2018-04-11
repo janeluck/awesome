@@ -22,6 +22,7 @@
 - [devhints](https://devhints.io/) -  A modest collection of cheatsheets.
 - [RegExr](http://www.regexr.com/) -  RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [TinyPng](https://tinypng.com/) -  Optimize your images with a perfect balance in quality and file size
+- [NodeICO](https://nodei.co/) -  classy node.js badges, that's al
 
 ## App-Tool
 - [Shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) -  A fast tunnel proxy that helps you bypass firewalls.
@@ -53,6 +54,7 @@
 - util
     - [lodash](https://lodash.com/docs/4.17.5) -  A modern JavaScript utility library delivering modularity, performance & extras.
     - [core-js](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
+    - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
 - component
     - [sweetalert](https://sweetalert.js.org/) -  SweetAlert makes popup messages easy and pretty.
 - client
@@ -65,6 +67,7 @@
 - [React Cheat Sheet](https://reactcheatsheet.com/?utm_source=reactnl&utm_medium=email) -  React Cheat Sheet.
 - [react-router@4](https://reacttraining.com/react-router/) -  Declarative Routing for React.js.
 - [Redux](https://redux.js.org/) -  Redux is a predictable state container for JavaScript apps.
+- [redux-thunk](https://github.com/gaearon/redux-thunk) -  Thunk middleware for Redux.
 - [redux-actions](https://github.com/redux-utilities/redux-actions) -  Flux Standard Action utilities for Redux.
 - [redux-ecosystem](https://github.com/markerikson/redux-ecosystem-links) -  A categorized list of Redux-related addons, libraries, and utilities.
 - [redux-localstorage](https://github.com/elgerlambert/redux-localstorage) -  Store enhancer that syncs (a subset) of your Redux store state to localstorage.
