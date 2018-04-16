@@ -55,6 +55,7 @@
     - [lodash](https://lodash.com/docs/4.17.5) -  A modern JavaScript utility library delivering modularity, performance & extras.
     - [core-js](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
+    - [MomentJS](http://momentjs.com/) -  Modular standard library for JavaScript.
 - component
     - [sweetalert](https://sweetalert.js.org/) -  SweetAlert makes popup messages easy and pretty.
 - client
