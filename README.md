@@ -62,6 +62,9 @@
     - [cookies-js](https://github.com/ScottHamper/Cookies) -  JavaScript Client-Side Cookie Manipulation Library.
 - mobile
     - [fastclick](https://github.com/ftlabs/fastclick) -  Polyfill to remove click delays on browsers with touch UIs
+- dom
+    - [add-dom-event-listener](https://github.com/yiminghe/add-dom-event-listener) -  Add dom event listener. normalize ie and others.
+
 
 ## React-Redux
 - [React](https://reactjs.org/) -  A JavaScript library for building user interfaces.
