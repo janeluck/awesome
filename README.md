@@ -20,9 +20,10 @@
 
 ## Tool-Website
 - [devhints](https://devhints.io/) -  A modest collection of cheatsheets.
+- [json-generator](https://www.json-generator.com/) -  Json Generator.
 - [RegExr](http://www.regexr.com/) -  RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [TinyPng](https://tinypng.com/) -  Optimize your images with a perfect balance in quality and file size
-- [NodeICO](https://nodei.co/) -  classy node.js badges, that's al
+- [NodeICO](https://nodei.co/) -  classy node.js badges, that's all
 
 ## App-Tool
 - [Shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master) -  A fast tunnel proxy that helps you bypass firewalls.
