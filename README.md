@@ -32,6 +32,7 @@
 - [Atmo](http://getatmo.com/) -  Mock data for your prototypes and demos.
 - [Charles](https://www.charlesproxy.com/) -  Web debugging proxy application.
 - [iTerm2](https://www.iterm2.com/) -  iTerm2 is a terminal emulator for macOS that does amazing things.
+- [Dash](https://kapeli.com/dash) -  Dash gives your Mac instant offline access to 200+ API documentation sets.
 
 ## Npm
 - [npm docs](https://docs.npmjs.com/) - The place where all things npm are documented.
