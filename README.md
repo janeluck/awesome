@@ -52,6 +52,8 @@
 - [koa-router](https://github.com/alexmingoia/koa-router#readme) -  Router middleware for koa.
 - [nodemon](https://github.com/remy/nodemon#nodemon) -  Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 - [Electron](https://electronjs.org/) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
+- [Socket.io](https://socket.io/) -  Featuring the fastest and most reliable real-time engine.
+
 
 
 ## front-end-development
