@@ -62,6 +62,7 @@
     - [core-js](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [MomentJS](http://momentjs.com/) -  Modular standard library for JavaScript.
+    - [sprintf-js](https://github.com/alexei/sprintf.js) - sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js
 - component
     - [sweetalert](https://sweetalert.js.org/) -  SweetAlert makes popup messages easy and pretty.
 - client
