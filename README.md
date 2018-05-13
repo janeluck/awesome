@@ -34,6 +34,8 @@
 - [iTerm2](https://www.iterm2.com/) -  iTerm2 is a terminal emulator for macOS that does amazing things.
 - [Dr.Cleaner](https://www.drcleaner.com/dr-cleaner/) -  The all-in-one App offers Memory Optimization,
 Disk Cleaning and System Monitoring to keep your Mac optimized for its best performance.
+- [Dash](https://kapeli.com/dash) -  Dash gives your Mac instant offline access to 200+ API documentation sets.
+
 
 ## Npm
 - [npm docs](https://docs.npmjs.com/) - The place where all things npm are documented.
@@ -53,6 +55,8 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [koa-router](https://github.com/alexmingoia/koa-router#readme) -  Router middleware for koa.
 - [nodemon](https://github.com/remy/nodemon#nodemon) -  Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 - [Electron](https://electronjs.org/) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
+- [Socket.io](https://socket.io/) -  Featuring the fastest and most reliable real-time engine.
+
 
 
 ## front-end-development
@@ -61,6 +65,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
     - [core-js](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [MomentJS](http://momentjs.com/) -  Modular standard library for JavaScript.
+    - [sprintf-js](https://github.com/alexei/sprintf.js) - sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js
 - component
     - [sweetalert](https://sweetalert.js.org/) -  SweetAlert makes popup messages easy and pretty.
 - client
