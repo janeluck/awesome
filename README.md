@@ -32,6 +32,8 @@
 - [Atmo](http://getatmo.com/) -  Mock data for your prototypes and demos.
 - [Charles](https://www.charlesproxy.com/) -  Web debugging proxy application.
 - [iTerm2](https://www.iterm2.com/) -  iTerm2 is a terminal emulator for macOS that does amazing things.
+- [Dr.Cleaner](https://www.drcleaner.com/dr-cleaner/) -  The all-in-one App offers Memory Optimization,
+Disk Cleaning and System Monitoring to keep your Mac optimized for its best performance.
 
 ## Npm
 - [npm docs](https://docs.npmjs.com/) - The place where all things npm are documented.
