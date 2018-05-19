@@ -35,6 +35,7 @@
 - [Dr.Cleaner](https://www.drcleaner.com/dr-cleaner/) -  The all-in-one App offers Memory Optimization,
 Disk Cleaning and System Monitoring to keep your Mac optimized for its best performance.
 - [Dash](https://kapeli.com/dash) -  Dash gives your Mac instant offline access to 200+ API documentation sets.
+- [ngrok](https://ngrok.com/) -  Public URLs for exposing your local web server.
 
 
 ## Npm
