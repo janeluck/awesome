@@ -38,6 +38,7 @@
 Disk Cleaning and System Monitoring to keep your Mac optimized for its best performance.
 - [Dash](https://kapeli.com/dash) -  Dash gives your Mac instant offline access to 200+ API documentation sets.
 - [ngrok](https://ngrok.com/) -  Public URLs for exposing your local web server.
+- [boostnote](https://ngrok.com/) -  Note-taking for developers.
 
 
 ## Npm
