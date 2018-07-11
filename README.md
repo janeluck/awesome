@@ -72,6 +72,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
     - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [MomentJS](http://momentjs.com/) -  Modular standard library for JavaScript.
     - [sprintf-js](https://github.com/alexei/sprintf.js) - sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js
+    - [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 - component
     - [sweetalert](https://sweetalert.js.org/) -  SweetAlert makes popup messages easy and pretty.
 - client
