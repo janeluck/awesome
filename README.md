@@ -74,6 +74,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
     - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [ImmutablJS](https://github.com/zloirock/core-js#readme) -  Modular standard library for JavaScript.
     - [immutable-helper](https://github.com/kolodny/immutability-helper) -  mutate a copy of data without changing the original source.
+    - [immer(https://github.com/mweststrate/immer#readme) -  Create the next immutable state by mutating the current one.
     - [MomentJS](http://momentjs.com/) -  Modular standard library for JavaScript.
     - [sprintf-js](https://github.com/alexei/sprintf.js) - sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js
 - component
