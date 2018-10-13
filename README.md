@@ -11,7 +11,7 @@
 	- [Npm](#npm)
 	- [NodeJS](#nodejs)
 	- [front-end-development](#front-end-development)
-	- [React](#react)
+	- [React, Redux](#react-redux)
 	- [Webpack](#webpack)
 	- [Babel](#babel)
 	- [TypeScript](#typescript)
@@ -89,7 +89,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - css
     - [Mustard UI](https://mustard-ui.com/) -  Mustard UI is a starter CSS framework that actually looks good.
 
-## React
+## React, Redux
 - [React](https://reactjs.org/) -  A JavaScript library for building user interfaces.
 - [React Cheat Sheet](https://reactcheatsheet.com/?utm_source=reactnl&utm_medium=email) -  React Cheat Sheet.
 - [react-router@4](https://reacttraining.com/react-router/) -  Declarative Routing for React.js.
@@ -101,6 +101,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [react-redux](https://github.com/reactjs/react-redux) -  Official React bindings for Redux.
 - [react-router-redux@5](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) -  Keep your state in sync with your router.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd#readme) -  Beautiful and accessible drag and drop for lists with React.
+- [reselect](https://github.com/reduxjs/reselect#readme) -  Selector library for Redux.
 
 
 ## Webpack
