@@ -28,6 +28,7 @@
 - [RegExr](https://regexper.com/) -  Regular expression visualizer using railroad diagrams.
 - [TinyPng](https://tinypng.com/) -  Optimize your images with a perfect balance in quality and file size
 - [NodeICO](https://nodei.co/) -  classy node.js badges, that's all
+- [npm semver calculator](https://semver.npmjs.com/) -  npm semver calculator
 - [CodeSandbox](https://codesandbox.io/) -  CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
 - [Js2flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) -  A visualization library to convert any JavaScript code into beautiful SVG flowchart.
 - [ProcessOn](https://www.processon.com/) -  在线作图工具的聚合平台.
