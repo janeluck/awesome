@@ -56,6 +56,9 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [minimist](https://github.com/substack/minimist) -  Parse argument options.
 - [clipboardy](https://github.com/sindresorhus/clipboardy#readme) -  Access the system clipboard (copy/paste).
 - [semver](https://github.com/npm/node-semver) -  The semantic versioner for npm.
+- [commander.js](https://github.com/tj/commander.js) -  node.js command-line interfaces made easy.
+- [pkginfo](https://github.com/indexzero/node-pkginfo) -  An easy way to expose properties on a module from a package.json.
+
 
 
 ## NodeJS
