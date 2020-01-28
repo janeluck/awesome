@@ -59,6 +59,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [commander.js](https://github.com/tj/commander.js) -  node.js command-line interfaces made easy.
 - [pkginfo](https://github.com/indexzero/node-pkginfo) -  An easy way to expose properties on a module from a package.json.
 - [envinfo](https://github.com/tabrindle/envinfo) -  Generate a report about your development environment for debugging and issue reporting.
+- [cors](https://github.com/expressjs/cors) -  Node.js CORS middleware.
 
 
 
