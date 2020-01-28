@@ -60,6 +60,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [pkginfo](https://github.com/indexzero/node-pkginfo) -  An easy way to expose properties on a module from a package.json.
 - [envinfo](https://github.com/tabrindle/envinfo) -  Generate a report about your development environment for debugging and issue reporting.
 - [cors](https://github.com/expressjs/cors) -  Node.js CORS middleware.
+- [pm2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/) -  PM2 is daemon process manager that will help you manage and keep your application online.
 
 
 
