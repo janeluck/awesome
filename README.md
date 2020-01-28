@@ -58,6 +58,7 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [semver](https://github.com/npm/node-semver) -  The semantic versioner for npm.
 - [commander.js](https://github.com/tj/commander.js) -  node.js command-line interfaces made easy.
 - [pkginfo](https://github.com/indexzero/node-pkginfo) -  An easy way to expose properties on a module from a package.json.
+- [envinfo](https://github.com/tabrindle/envinfo) -  Generate a report about your development environment for debugging and issue reporting.
 
 
 
