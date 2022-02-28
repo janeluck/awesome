@@ -1,5 +1,5 @@
 # awesome
-日常使用的工具库和工具网站
+日常使用的工具库、工具网站、浏览器插件
 
 <br>
 
@@ -136,6 +136,9 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 ## Python
 - [scrapy](https://docs.scrapy.org/en/latest/) -  A Fast and Powerful Scraping and Web Crawling Framework
 
+## Chrome Extension
+- [ModHeader](https://modheader.com/) - ModHeader is a devtool used to quickly change request and response headers.
+- [Adblockplus](https://adblockplus.org/) - Surf the web with no annoying ads.
 <!--
 
 ## NodeJS
