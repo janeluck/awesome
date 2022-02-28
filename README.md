@@ -5,19 +5,21 @@
 
 ## Contents
 - [awesome](#awesome)
-	- [Contents](#contents)
-	- [Tool-Website](#tool-website)
-	- [App-Tool](#app-tool)
-	- [Npm](#npm)
-	- [NodeJS](#nodejs)
-	- [front-end-development](#front-end-development)
-	- [React, Redux](#react-redux)
-	- [Webpack](#webpack)
-	- [Babel](#babel)
-	- [TypeScript](#typescript)
-	- [Unix](#unix)
-	- [software-management](#software-management)
-	- [Python](#python)
+    - [Contents](#contents)
+    - [Tool-Website](#tool-website)
+    - [App-Tool](#app-tool)
+    - [Npm](#npm)
+    - [NodeJS](#nodejs)
+    - [front-end-development](#front-end-development)
+    - [React, Redux](#react-redux)
+    - [Webpack](#webpack)
+    - [Babel](#babel)
+    - [TypeScript](#typescript)
+    - [Unix](#unix)
+    - [software-management](#software-management)
+    - [Python](#python)
+    - [Git](#Git)
+    - [Chrome Extension](#Chrome Extension)
 
 
 ## Tool-Website
@@ -140,6 +142,10 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 ## Chrome Extension
 - [ModHeader](https://modheader.com/) - ModHeader is a devtool used to quickly change request and response headers.
 - [Adblockplus](https://adblockplus.org/) - Surf the web with no annoying ads.
+
+## Git
+- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
+
 <!--
 
 ## NodeJS
