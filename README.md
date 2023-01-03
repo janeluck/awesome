@@ -5,21 +5,21 @@
 
 ## Contents
 - [awesome](#awesome)
-    - [Contents](#contents)
-    - [Tool-Website](#tool-website)
-    - [App-Tool](#app-tool)
-    - [Npm](#npm)
-    - [NodeJS](#nodejs)
-    - [front-end-development](#front-end-development)
-    - [React, Redux](#react-redux)
-    - [Webpack](#webpack)
-    - [Babel](#babel)
-    - [TypeScript](#typescript)
-    - [Unix](#unix)
-    - [software-management](#software-management)
-    - [Python](#python)
-    - [Git](#Git)
-    - [Chrome Extension](#Chrome Extension)
+	- [Contents](#contents)
+	- [Tool-Website](#tool-website)
+	- [App-Tool](#app-tool)
+	- [Npm](#npm)
+	- [NodeJS](#nodejs)
+	- [front-end-development](#front-end-development)
+	- [React, Redux](#react-redux)
+	- [Webpack](#webpack)
+	- [Babel](#babel)
+	- [TypeScript](#typescript)
+	- [Unix](#unix)
+	- [software-management](#software-management)
+	- [Python](#python)
+	- [Chrome Extension](#chrome-extension)
+	- [Git](#git)
 
 
 ## Tool-Website
@@ -46,8 +46,7 @@
 Disk Cleaning and System Monitoring to keep your Mac optimized for its best performance.
 - [Dash](https://kapeli.com/dash) -  Dash gives your Mac instant offline access to 200+ API documentation sets.
 - [ngrok](https://ngrok.com/) -  Public URLs for exposing your local web server.
-- [boostnote](https://ngrok.com/) -  Note-taking for developers.
-
+- [proxyman](https://proxyman.io) - Modern. Native Web Debugging Proxy
 
 ## Npm
 - [npm docs](https://docs.npmjs.com/) - The place where all things npm are documented.
@@ -64,8 +63,9 @@ Disk Cleaning and System Monitoring to keep your Mac optimized for its best perf
 - [envinfo](https://github.com/tabrindle/envinfo) -  Generate a report about your development environment for debugging and issue reporting.
 - [cors](https://github.com/expressjs/cors) -  Node.js CORS middleware.
 - [pm2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/) -  PM2 is daemon process manager that will help you manage and keep your application online.
-
-
+- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
+- [sanitize-filename](https://github.com/parshap/node-sanitize-filename) - Sanitize string for use as filename
+- [chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
 ## NodeJS
 - [nvm](https://github.com/creationix/nvm#readme) -  Node Version Manager.
